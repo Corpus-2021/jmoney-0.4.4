@@ -1,0 +1,18 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/net/.*
+- ./bin/net/sf/.*
+- ./bin/net/sf/jmoney/.*
+- ./bin/net/sf/jmoney/gui/.*
+- ./bin/net/sf/jmoney/images/.*
+- ./bin/net/sf/jmoney/images/jlfgr/.*
+- ./bin/net/sf/jmoney/io/.*
+- ./bin/net/sf/jmoney/model/.*
+- ./lib/.*
+- ./report/.*
+- ./win/.*
+- ./www/.*
+- ./www/images/.*
